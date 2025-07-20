@@ -10,7 +10,7 @@ body {
   background: linear-gradient(to bottom right, #3b0a67, #1a084e);
   color: white;
   height: 100vh;
-  overflow: hidden;
+  overflow: scroll;
   display: flex;
   flex-direction: column;
 }
