@@ -480,6 +480,13 @@ body {
   margin-bottom: 1rem;
 }
 
+.box.skills [data-content="brief"] {
+  font-size: 1.1rem;
+  line-height: 1.5;
+  font-family: 'Inter', sans-serif;
+  padding: 1rem 0;
+}
+
 /* Tabs */
 .skills-tabs {
   display: flex;
@@ -613,4 +620,8 @@ body {
   .project-card {
     padding: 0.9rem;
   }
+}
+
+a {
+  color: white;
 }
