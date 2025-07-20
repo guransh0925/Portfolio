@@ -235,12 +235,12 @@ body.expanded-mode .box:not(.expanded) {
     grid-column: 1 / 3;
     grid-row: 1 / 2;
     text-align: center;
-    font-size: 2em;
+    font-size: 1.5em;
   } 
   .about{
     grid-column: 1 / 1;
     grid-row: 2 / 6;
-    font-size: 1.2em;
+    font-size: 1em;
   } 
   .photo{
     padding: 0px;
